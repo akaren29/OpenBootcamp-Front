@@ -1,0 +1,24 @@
+.btn{
+    width: 40%;
+    height: 30vh;
+    position: relative;
+}
+
+.button{
+    position: absolute;
+    top: 60px;
+    left: 40px;
+    padding: 10px;
+    border: none;
+    border-radius: 9px;
+    background-color: rgba(119, 214, 10, 0.342);
+    font-weight: 700;
+}
+.button:hover{
+    color: white;
+    background-color: green;
+    cursor: pointer;
+    
+}
+
+
