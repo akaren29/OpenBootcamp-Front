@@ -1,0 +1,12 @@
+.container{
+    padding: 10px;
+    gap: 20px;
+}
+.col-12{
+    background-color: aquamarine;
+}
+.col-sm-6{
+    background-color: violet;
+}
+
+
